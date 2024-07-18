@@ -1,0 +1,30 @@
+
+.about {
+    padding: 50px 100px;
+    background: #f4f4f4;
+}
+.about h2 {
+    font-size: 2.5em;
+    color: #555;
+    margin-bottom: 20px;
+}
+.about-content {
+    display: flex;
+    align-items: center;
+}
+.about-image {
+    flex: 1;
+    margin-right: 20px;
+}
+.about-image img {
+    width: 100%;
+    max-width: 300px;
+    border-radius: 50%;
+}
+.about-text {
+    flex: 2;
+}
+.about-text p {
+    font-size: 1.1em;
+    color: #555;
+}
